@@ -8,6 +8,12 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdnithin/angular-drag-drop.git"
+  },
+  "license": "MIT",
+  "author": "bdnithin",
   "private": true,
   "dependencies": {
     "@angular/animations": "^17.3.0",

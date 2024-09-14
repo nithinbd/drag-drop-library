@@ -1,11 +1,17 @@
 {
   "name": "@bdnithin/angular-drag-drop",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "private": false,
   "peerDependencies": {
     "@angular/common": "^17.0.0",
     "@angular/core": "^17.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nithinbd/drag-drop-library.git"
+  },
+  "license": "MIT",
+  "author": "bdnithin",
   "dependencies": {
     "tslib": "^2.3.0"
   },

@@ -97,6 +97,8 @@ dragDropDraggingClass: CSS class applied to items while being dragged. Default i
 itemMoved: Emits an event when items are moved. The event contains:
 
 oldIndex: The original index of the moved item(s).
+
+
 newIndex: The new index of the moved item(s).
 items: An array of the moved items
 

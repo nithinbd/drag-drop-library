@@ -1,6 +1,6 @@
 {
   "name": "@bdnithin/angular-drag-drop",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "private": false,
   "peerDependencies": {
     "@angular/common": "^17.0.0",
